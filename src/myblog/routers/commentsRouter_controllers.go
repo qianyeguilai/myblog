@@ -47,6 +47,14 @@ func init() {
 			MethodParams: param.Make(),
 			Params: nil})
 
+	beego.GlobalControllerRouter["myblog/controllers:TestController"] = append(beego.GlobalControllerRouter["myblog/controllers:TestController"],
+		beego.ControllerComments{
+			Method: "Test",
+			Router: `/test`,
+			AllowHTTPMethods: []string{"get","post"},
+			MethodParams: param.Make(),
+			Params: nil})
+
 	beego.GlobalControllerRouter["myblog/controllers:UserController"] = append(beego.GlobalControllerRouter["myblog/controllers:UserController"],
 		beego.ControllerComments{
 			Method: "Post",
