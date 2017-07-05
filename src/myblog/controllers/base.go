@@ -29,3 +29,4 @@ func (this * BaseControllers)Response(retcode int,c interface{}){
     this.Data["json"] = req
     this.ServeJSON()
 }
+
