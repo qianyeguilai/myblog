@@ -1,0 +1,39 @@
+2017/07/04 14:04:07 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/04 14:41:10 [I] [main.go:21] cpu bum :1,default: 1 
+2017/07/04 14:41:10 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/04 14:44:46 [I] [main.go:21] cpu bum :1,default: 1 
+2017/07/04 14:44:46 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/04 14:44:47 [I] [asm_amd64.s:1998] Admin server Running on :8088
+2017/07/04 14:47:49 [I] [main.go:21] cpu bum :1,default: 1 
+2017/07/04 14:47:49 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/04 14:47:49 [I] [asm_amd64.s:1998] Admin server Running on :8089
+2017/07/05 11:24:50 [I] [runner.go:56] blog project workdir : /mnt/golang_project/src/myblog/ 
+2017/07/05 11:24:50 [I] [runner.go:60] this project appname is myblog and PidFile in /mnt/golang_project/src/myblog/logs/blog.pid 
+2017/07/05 11:24:50 [I] [runner.go:63] &{AppName:myblog WorkDir:/mnt/golang_project/src/myblog/ PidFile:/mnt/golang_project/src/myblog/logs/blog.pid WorkNum: ApiDeactivate:true CallDeactivate:true} 
+2017/07/05 11:24:50 [I] [main.go:22] cpu bum :1,default: 1 
+2017/07/05 11:24:50 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/05 11:24:50 [I] [asm_amd64.s:1998] Admin server Running on :8089
+2017/07/05 11:39:10 [I] [runner.go:56] blog project workdir : /mnt/golang_project/src/myblog/ 
+2017/07/05 11:39:10 [I] [runner.go:60] this project appname is myblog and PidFile in /mnt/golang_project/src/myblog/logs/blog.pid 
+2017/07/05 11:39:10 [I] [runner.go:63] &{AppName:myblog WorkDir:/mnt/golang_project/src/myblog/ PidFile:/mnt/golang_project/src/myblog/logs/blog.pid WorkNum: ApiDeactivate:true CallDeactivate:true} 
+2017/07/05 11:39:10 [I] [main.go:22] cpu bum :1,default: 1 
+2017/07/05 11:39:10 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/05 11:39:10 [I] [asm_amd64.s:1998] Admin server Running on :8089
+2017/07/05 11:39:15 [I] [runner.go:56] blog project workdir : /mnt/golang_project/src/myblog/ 
+2017/07/05 11:39:15 [I] [runner.go:60] this project appname is myblog and PidFile in /mnt/golang_project/src/myblog/logs/blog.pid 
+2017/07/05 11:39:15 [I] [runner.go:63] &{AppName:myblog WorkDir:/mnt/golang_project/src/myblog/ PidFile:/mnt/golang_project/src/myblog/logs/blog.pid WorkNum: ApiDeactivate:true CallDeactivate:true} 
+2017/07/05 11:39:15 [I] [main.go:22] cpu bum :1,default: 1 
+2017/07/05 11:39:15 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/05 11:39:15 [I] [asm_amd64.s:1998] Admin server Running on :8089
+2017/07/05 11:42:52 [I] [runner.go:56] blog project workdir : /mnt/golang_project/src/myblog/ 
+2017/07/05 11:42:52 [I] [runner.go:60] this project appname is myblog and PidFile in /mnt/golang_project/src/myblog/logs/blog.pid 
+2017/07/05 11:42:52 [I] [runner.go:63] &{AppName:myblog WorkDir:/mnt/golang_project/src/myblog/ PidFile:/mnt/golang_project/src/myblog/logs/blog.pid WorkNum: ApiDeactivate:true CallDeactivate:true} 
+2017/07/05 11:42:52 [I] [main.go:22] cpu bum :1,default: 1 
+2017/07/05 11:42:52 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/05 11:42:52 [I] [asm_amd64.s:1998] Admin server Running on :8089
+2017/07/05 11:43:06 [I] [runner.go:56] blog project workdir : /mnt/golang_project/src/myblog/ 
+2017/07/05 11:43:06 [I] [runner.go:60] this project appname is myblog and PidFile in /mnt/golang_project/src/myblog/logs/blog.pid 
+2017/07/05 11:43:06 [I] [runner.go:63] &{AppName:myblog WorkDir:/mnt/golang_project/src/myblog/ PidFile:/mnt/golang_project/src/myblog/logs/blog.pid WorkNum: ApiDeactivate:true CallDeactivate:true} 
+2017/07/05 11:43:06 [I] [main.go:22] cpu bum :1,default: 1 
+2017/07/05 11:43:06 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/05 11:43:06 [I] [asm_amd64.s:1998] Admin server Running on :8089
