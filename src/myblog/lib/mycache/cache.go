@@ -2,7 +2,7 @@ package mycache
 
 import (
 	"time"
-    "fmt"
+//    "fmt"
 )
 
 type cacher interface {

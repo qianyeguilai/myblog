@@ -37,3 +37,9 @@
 2017/07/05 11:43:06 [I] [main.go:22] cpu bum :1,default: 1 
 2017/07/05 11:43:06 [I] [asm_amd64.s:1998] http server Running on http://:8080
 2017/07/05 11:43:06 [I] [asm_amd64.s:1998] Admin server Running on :8089
+2017/07/05 11:55:03 [I] [runner.go:56] blog project workdir : /mnt/golang_project/src/myblog/ 
+2017/07/05 11:55:03 [I] [runner.go:60] this project appname is myblog and PidFile in /mnt/golang_project/src/myblog/logs/blog.pid 
+2017/07/05 11:55:03 [I] [runner.go:63] &{AppName:myblog WorkDir:/mnt/golang_project/src/myblog/ PidFile:/mnt/golang_project/src/myblog/logs/blog.pid WorkNum: ApiDeactivate:true CallDeactivate:true} 
+2017/07/05 11:55:03 [I] [main.go:22] cpu bum :1,default: 1 
+2017/07/05 11:55:03 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/07/05 11:55:03 [I] [asm_amd64.s:1998] Admin server Running on :8089
